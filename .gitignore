@@ -1,0 +1,3 @@
+# Datos exportados: no se versionan (se reproducen con export/)
+*.csv
+.DS_Store
