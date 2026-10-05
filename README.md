@@ -1,6 +1,6 @@
 # BigQuery Star Schema — Bakehouse Sales
 
-Dimensional model on **Google BigQuery** for the same business case as my [Databricks medallion pipeline](https://github.com/TU-USUARIO/databricks-medallion-bakehouse): bakery franchise sales, from cleaned transactions to a BI dashboard.
+Dimensional model on **Google BigQuery** for the same business case as my [Databricks medallion pipeline](https://github.com/javierS95/databricks-medallion-bakehouse): bakery franchise sales, from cleaned transactions to a BI dashboard.
 
 The goal of building the same use case on both platforms is to compare how each one solves it, and to apply BigQuery-specific concepts: **star schema modeling, partitioning, clustering, columnar cost, and BI-oriented serving layers**.
 
